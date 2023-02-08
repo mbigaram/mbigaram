@@ -9,6 +9,8 @@
 
 ![Mbigaram GitHub stats](https://github-readme-stats.vercel.app/api?username=mbigaram&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4)](https://github.com/mbigaram/github-readme-stats)
+
 ## Tecnologias que uso
 
 <div style="display: inline_block"><br/>
